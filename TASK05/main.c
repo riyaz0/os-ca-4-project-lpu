@@ -1,6 +1,6 @@
 /**
- * @author : Rajdeep Roy Chowdhury
- * @handle : razdeep <rrajdeeproychowdhury@gmail.com>
+ * @author : shaik riyaz
+ * @handle : riyaz<riyazofficial00@gmail.com>
  * 
  * ---------------
  *    TASK #05
