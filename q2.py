@@ -29,21 +29,6 @@ for x in range(len(ref)):
             print(f)    
 print("page fault is",pge_flt)   
         
-"""if ref[x] not in f:
-        pge_flt=pge_flt+1
-        #if x>6:
-        if(len(f)<7) :
-            f_no=f_no+1
-            print(f_no," ",ref[x])
-            f[f_no-1]=ref[x]
-        elif(len(f)<7 & y<7):
-            f.append(ref[x])
-            y=y+1            
-            print("the values stored in frames is " ,f)
-            print("values of x ",x,"values of f ",len(f))
-            if y==7:
-                f_no=0
-    else:
-        pass"""        
+       
 
             
