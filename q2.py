@@ -9,8 +9,9 @@ f=[]
 pge_flt=0
 f_no=0
 y=-1
+i= int(input("enter how many reference nos required"))
 import random
-for x in range(100):
+for x in range(i):
     y=random.randrange(0,9)
     ref.append(y)
 #ref=[1,2,3,4,5,6,7,8,9]
